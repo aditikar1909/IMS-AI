@@ -54,7 +54,7 @@ A 2 × 4 toy brick was constructed by combining a rectangular base body with eig
 **Output File:** `brick.stl`
 
 ### 3D Model Preview
-![Brick Model](brick 1.jpeg)
+![Brick Model](brick.jpeg)
 
 ---
 
