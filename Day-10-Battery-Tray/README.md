@@ -18,15 +18,15 @@ Developed a parametric battery tray using Python and CadQuery to accommodate thr
 ## 3D Model Visualizations
 
 ### 18650 Battery Tray
-![18650 Battery Tray](TRAY1.png)
+![18650 Battery Tray](TRAY1.jpeg)
 | 18650 | 18 mm | 65 mm |
 
 ### 21700 Battery Tray
-![21700 Battery Tray](TRAY2.png)
+![21700 Battery Tray](TRAY2.jpeg)
 | 21700 | 21 mm | 70 mm |
 
 ### 4680 Battery Tray
-![4680 Battery Tray](TRAY3.png)
+![4680 Battery Tray](TRAY3.jpeg)
 | 4680 | 46 mm | 80 mm |
 
 ## Tools Used
