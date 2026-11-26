@@ -1,32 +1,23 @@
+
 # 📘 DAY 10 – Three-Format Battery Tray
 
 **Date:** 26 November 2026
 
 ## Project Overview
-Developed a parametric battery tray using Python and CadQuery to accommodate three different cylindrical battery formats: 18650, 21700 and 4680.
+A parametric battery tray was designed using Python and CadQuery to accommodate three different cylindrical battery formats: 18650, 21700 and 4680.
 
 ## Objectives
 - Implemented Python dataclasses to organize battery specifications.
-- Created a reusable parametric tray function.
-- Generated three circular pockets using a loop.
-- Exported the CAD models in STL format.
+- Developed a reusable parametric tray function.
+- Generated three circular pockets using loops.
+- Exported the final CAD models in STL format.
 
-## Battery Variants
-| Battery | Diameter | Height |
+## Battery Specifications
+
+| Battery Format | Diameter | Height |
 |---|---:|---:|
-
-## 3D Model Visualizations
-
-### 18650 Battery Tray
-![18650 Battery Tray](TRAY1.jpeg)
 | 18650 | 18 mm | 65 mm |
-
-### 21700 Battery Tray
-![21700 Battery Tray](TRAY2.jpeg)
 | 21700 | 21 mm | 70 mm |
-
-### 4680 Battery Tray
-![4680 Battery Tray](TRAY3.jpeg)
 | 4680 | 46 mm | 80 mm |
 
 ## Tools Used
@@ -35,8 +26,22 @@ Developed a parametric battery tray using Python and CadQuery to accommodate thr
 - Visual Studio Code
 - GitHub
 
+## 3D Model Visualizations
+
+### Tray 1 – 18650 Battery Format
+![Tray 1](TRAY%201.png)
+
+### Tray 2 – 21700 Battery Format
+![Tray 2](TRAY%202.png)
+
+### Tray 3 – 4680 Battery Format
+![Tray 3](TRAY3%20REPS.png)
+
 ## Project Files
-The Python source code, generated STL models and screenshots are included in this folder.
+- `models.py` – Python source code
+- `tray_18650.stl` – 18650 battery tray
+- `tray_21700.stl` – 21700 battery tray
+- `tray_4680.stl` – 4680 battery tray
 
 ## Learning Outcome
-Understood how a single parametric function can generate multiple product variants by changing input specifications.
+Successfully demonstrated parametric CAD modelling by using a single reusable function to generate multiple battery tray variants through changes in input specifications.
