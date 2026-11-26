@@ -29,13 +29,13 @@ A parametric battery tray was designed using Python and CadQuery to accommodate 
 ## 3D Model Visualizations
 
 ### Tray 1 – 18650 Battery Format
-![Tray 1](TRAY1.png)
+![Tray 1](TRAY2.png)
 
 ### Tray 2 – 21700 Battery Format
-![Tray 2](TRAY2.png)
+![Tray 2](TRAY3.png)
 
 ### Tray 3 – 4680 Battery Format
-![Tray 3](TRAY3.png)
+![Tray 3](TRAY1.png)
 
 ## Project Files
 - `models.py` – Python source code
